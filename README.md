@@ -5,9 +5,11 @@ App demo: https://portfolio-tristan-harville.uk.r.appspot.com/
 
 # Features:
 
-## Authentication
+### Authentication
 This application uses authentication to manage users
-## REST API
+### REST API
 A full api documentation has been included in this project
-## GCP
+### GCP
 This app has been deployed on the Google Cloud Platform
+### Postman testing suite
+The postman collection testing suite has been included in this project
